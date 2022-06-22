@@ -1,12 +1,8 @@
-<h2 align="left">Oi, Sou o Thiago!👋</h2>
-
-<h2 align="left">Sou estudante e desenvolvedor!</h2>
+<h2 align="left">Oi, Sou o Thiago!👋 <br>Sou estudante e desenvolvedor!</h2>
 
 ###
 
-<br clear="both">
-
-<h3 align="left">🌱Aperfeiçoando JavaScript <br>✔️Agredando conhecimento de valor <br>🥅 Planos 2022: Poder contribuir em projetos desafiadores</h3>
+<h3 align="left">🌱Aperfeiçoando JavaScript |<br>✔️Agredando conhecimento de valor |<br>🥅 Planos 2022: Poder contribuir em projetos desafiadores</h3>
 
 ###
 
@@ -40,8 +36,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 ![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
 
