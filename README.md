@@ -1,6 +1,4 @@
-<h2 align="left">Oi, Sou o Thiago!👋 Sou estudante e desenvolvedor!</h2>
-
-###
+<h2 align="left">Oi, Sou o Thiago!👋</h2>
 
 <h2 align="left">Sou estudante e desenvolvedor!</h2>
 
