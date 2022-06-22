@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🌱Aperfeiçoando JavaScript |<br>✔️Agredando conhecimento de valor |<br>🥅 Planos 2022: Poder contribuir em projetos desafiadores</h3>
+<h3 align="left">🌱Aperfeiçoando JavaScript <br>✔️Agredando conhecimento de valor <br>🥅 Planos 2022: Poder contribuir em projetos desafiadores</h3>
 
 ###
 
